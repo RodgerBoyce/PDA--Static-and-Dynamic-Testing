@@ -22,25 +22,27 @@ class CardGame:
 # Error 1: Should use a double equal sign for comparison to check value
       return True
     else
+#Error 2: should have : after else
       return False
    
 
   dif highest_card(self, card1 card2):
-# Error 2: Typo in the method name, it should be "def" instead of "dif"
-# Error 3: Missing a comma to separate parameters card1 and card2
+# Error 3: Typo in the method name, it should be "def" instead of "dif"
+# Error 4: Missing a comma to separate parameters card1 and card2
   if card1.value > card2.value:
     return card
-# Error 4: Should return card1
+# Error 5: Should return card1
   else:
     return card2
 
 
 def cards_total(self, cards):
   total
-# Error 5: Should set total to 0
+# Error 6: Should set total to 0
   for card in cards:
     total += card.value
     return "You have a total of" + total
-# Error 6: Return should be outside of the loop
+# Error 7: Return should be outside of the loop
+# Error 8: Needs to convert the int into a string 
   
 ```

@@ -1,0 +1,3 @@
+Testing is an essential part of software development as it ensures the functionality and reliability of the code. It helps to detect and fix issues in the code before it is deployed to the production environment.
+
+In the testing code submitted, the test cases are well defined and structured using the unittest module in Python. The test cases cover different methods of the CardGame class, and they are well documented to explain what is being tested and the expected results. However, there was multiple issues with the code which had to be fixed to ensure that the tests run correctly and accurately reflect the intended function of the code.
